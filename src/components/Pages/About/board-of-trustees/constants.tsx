@@ -1,0 +1,51 @@
+export const boardMembers = [
+   {
+      name: "Dr. Douglas Barnett",
+      position: "Board Chairman",
+      title: "Professor of Pharmaceutics",
+      organization: "Howard University, Washington DC",
+      image: "/new/n-5.jpg",
+   },
+   {
+      name: "Dr. Longinus O Agor MD",
+      position: "Member",
+      title: "Regional Pastor",
+      organization: "RCCG, The Americas 1 Region 6, Chapel of Restoration, New York NY",
+      image: "/new/n-7.jpg",
+   },
+   {
+      name: "Dr. Olusegun Edward Ojo",
+      position: "President",
+      title: "",
+      organization: "",
+      image: "/new/n-8.jpg",
+   },
+   {
+      name: "Dr. Pastor Omotoso Gabriel",
+      position: "Member",
+      title: "Chief Executive Officer",
+      organization: "",
+      image: "/new/n-9.jpg",
+   },
+   {
+      name: "Dr. Micah Brother Igonieghel",
+      position: "Member",
+      title: "M.D. Associate Professor, Pediatrics",
+      organization: "Wake Forest Baptist Medical Center, Winston-Salem, NC",
+      image: "/new/n-10.jpg",
+   },
+   // {
+   //    name: "Dr. Akinsanya Adubi",
+   //    position: "Member",
+   //    title: "Senior Pastor",
+   //    organization: "The Redeemed Christian Church of God, Jesus Palace, Maryland USA",
+   //    image: "/about/bo6.jpg",
+   // },
+   // {
+   //    name: "Pastor Adeyinka Somotun",
+   //    position: "Member",
+   //    title: "Sr. Director, Global Procurement",
+   //    organization: "Oracle Corporation, Rocklin, CA",
+   //    image: "/about/bo7.jpg",
+   // },
+];
