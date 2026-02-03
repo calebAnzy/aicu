@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://aicuedu.org
+
+# Sitemaps
+Sitemap: https://aicuedu.org/sitemap.xml
